@@ -1,2 +1,2 @@
-# ethical dozer
-Source code for the investigation: "A case for BMR housing in Vancouver". 
+# deja vu
+Source code for the investigation: "Investigating correlations between census variables". 
