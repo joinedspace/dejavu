@@ -1,2 +1,2 @@
 # deja vu
-Source code for the investigation: "The Nature of Neighborhoods: Deconstructing Vancouver's Housing Crisis ". 
+Source code for the investigation: "The Nature of Neighborhoods: a Housing Crisis Deconstructed". 
