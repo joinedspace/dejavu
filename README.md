@@ -1,6 +1,6 @@
 # The Nature of Neighborhoods: a Housing Crisis Deconstructed
 
-For a link to the full article, please go to https://medium.com/@joinedspace/the-nature-of-neighborhoods-a-housing-crisis-deconstructed-6feb4cfe7a67
+For a link to the full article, please go to https://read.joined.space/the-nature-of-neighborhoods-a-housing-crisis-deconstructed-6feb4cfe7a67
 
 For a link to my site, please go to https://joined.space/
 
